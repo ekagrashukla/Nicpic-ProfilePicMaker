@@ -1,0 +1,14 @@
+{
+  "name": "nicpic",
+  "version": "1.0.0",
+  "description": "A webapp to convert your ordinary photos to proessional.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekagra Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
