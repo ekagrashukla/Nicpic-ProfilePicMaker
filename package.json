@@ -9,6 +9,7 @@
   "author": "Ekagra Shukla",
   "license": "ISC",
   "dependencies": {
+    "jimp": "^0.16.1",
     "request": "^2.88.2"
   }
 }
